@@ -1,7 +1,9 @@
-<h3 align="center"> Projeto Final para conclusão do curso BootCamp Spring 3.0 Devsuperior https://devsuperior.com.br/ </h3>
+<h2 align="center"> Projeto Final para conclusão do curso BootCamp Spring Boot 3.0 DevSuperior</h2>
+
+
+<h3 align="center"><b>Visão geral do sistema MovieFlix</b></h3>
 
 <h4>
-Visão geral do sistema MovieFlix
 O sistema MovieFlix consiste em um banco de filmes, os quais podem ser listados e avaliados pelos usuários. Usuários podem ser visitantes (VISITOR) e membros (MEMBER). Apenas usuários membros podem inserir avaliações no sistema.
 
 Ao acessar o sistema, o usuário deve fazer seu login. Apenas usuários logados podem navegar nos filmes. Logo após fazer o login, o usuário vai para a listagem de filmes, que mostra os filmes de forma paginada, ordenados alfabeticamente por título. O usuário pode filtrar os filmes por gênero.
@@ -15,9 +17,11 @@ https://www.figma.com/file/6JQVnxKgKtVHLleSBBgRin/MovieFlix-front-listagem
 
 <h3 align="center"><b> Modelo Conceitual</b></h3> 
 
-<h3 align="center"><b>Casos de uso:</b></h3>
-<h4>
+ ![](https://rgiovann.github.io/image-repo/bds_05_concept.jpg)
 
+<h3 align="center"><b>Casos de uso</b></h3>
+
+<h4>
 <i>Efetuar login</i>
 <ol>
     <li>[IN] O usuário anônimo informa seu email e senha</li>
@@ -42,3 +46,6 @@ https://www.figma.com/file/6JQVnxKgKtVHLleSBBgRin/MovieFlix-front-listagem
     
 Exceção  - Texto vazio
 O sistema apresenta uma mensagem de que não é permitido texto vazio na avaliação</h4>
+
+
+site: https://devsuperior.com.br/ 
